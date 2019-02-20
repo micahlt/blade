@@ -1,7 +1,5 @@
 # Blade
-Meet Blade, razor-sharp webOS.
-Coming soon, built on Scratch 3.
+The Blade OS moved to https://scratch.mit.edu/users/OpenTeam/ when Scratch 3 was released.  
 
-What is the repository for?
-This repository is built to store early versions of Blade and the changelog.
-
+What was this repository for?
+This repository was built to store early versions of Blade and the changelog.  
